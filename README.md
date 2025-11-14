@@ -72,11 +72,11 @@ Prior to this work, the Study Abroad office lacked:
 ---
 
 ## Features
-- 📅 **Multi-term views:** Fall, Spring, Summer, Faculty-Led (2014–2025)
-- 🌍 **Top Countries** per term and overall
-- 🧑‍🤝‍🧑 **Diversity lenses:** Gender and Ethnicity
-- 🎓 **Academic lenses:** Majors and UOP Schools
-- 🧭 Clear visual hierarchy, consistent spacing/alignment, export-ready
+-  **Multi-term views:** Fall, Spring, Summer, Faculty-Led (2014–2025)
+-  **Top Countries** per term and overall
+-  **Diversity lenses:** Gender and Ethnicity
+-  **Academic lenses:** Majors and UOP Schools
+-  Clear visual hierarchy, consistent spacing/alignment, export-ready
 
 ---
 
@@ -134,11 +134,11 @@ Prior to this work, the Study Abroad office lacked:
 You can explore the dashboards live on **Tableau Public** here:
 
 1. **Overview by Major and UOP Schools**  
-   👉 [View Dashboard](https://public.tableau.com/app/profile/farheen.shaikh8731/viz/UOPSchoolandMajorParticipationsAnalysis/UOPSchoolsParticipation?publish=yes)
+   >> [View Dashboard](https://public.tableau.com/app/profile/farheen.shaikh8731/viz/UOPSchoolandMajorParticipationsAnalysis/UOPSchoolsParticipation?publish=yes)
 
 2. **Study Abroad Student Participation Analysis**  
-   👉 [View Dashboard](https://public.tableau.com/app/profile/farheen.shaikh8731/viz/StudentParticipationAnalysis/Studentsparticipation?publish=yes)
+   >> [View Dashboard](https://public.tableau.com/app/profile/farheen.shaikh8731/viz/StudentParticipationAnalysis/Studentsparticipation?publish=yes)
 
 3. **Diversity & Inclusion Analysis**  
-   👉 [View Dashboard](https://public.tableau.com/app/profile/farheen.shaikh8731/viz/DiversityInclusionAnalysis/DiversityInclusion?publish=yes)
+   >> [View Dashboard](https://public.tableau.com/app/profile/farheen.shaikh8731/viz/DiversityInclusionAnalysis/DiversityInclusion?publish=yes)
    
