@@ -1,5 +1,4 @@
-> Data storytelling dashboards for the **University of the Pacific – Office of Global Education** (Summer 2025).  
-> Visualizes Study Abroad participation across **Fall, Spring, Summer, and Faculty-Led Trips (2014–2025)** to inform decisions on **diversity, inclusion, and engagement**.
+Data storytelling dashboards for the **University of the Pacific – Office of Global Education** (Summer 2025). Visualizes Study Abroad participation across **Fall, Spring, Summer, and Faculty-Led Trips (2014–2025)** to inform decisions on **diversity, inclusion, and engagement**.
 
 ---
 
