@@ -60,13 +60,16 @@ Prior to this work, the Study Abroad office lacked:
 ---
 
 ## Design Process
-1. **Research & Discovery** – stakeholder interviews; data audit.  
-2. **Ideation & Early Iterations** – low-fi chart sketches and Figma layouts; tested hierarchy/labels.  
-3. **Implementation** – Tableau dashboards + React embeds; performance passes on large category sets.  
-4. **Validation & Delivery** – usability checks with staff/students; shipped presentation deck for deans.
+1. **Research & Discovery** – The design process began with a thorough research and discovery phase, where stakeholder interviews were conducted to understand the needs of staff, students, and decision-makers. Alongside these discussions, a detailed data audit was performed to evaluate the quality, structure, and relevance of the available datasets. This phase ensured that the project was grounded in both user expectations and reliable data sources.
+  
+2. **Ideation & Early Iterations** – Following the research phase, the project moved into ideation and early iterations. Low-fidelity chart sketches were created to explore different ways of presenting the information effectively, while Figma layouts were used to experiment with structure, hierarchy, and overall visual design. These early prototypes were tested and refined to improve clarity, labeling, and user flow before development began.
+  
+3. **Implementation** – During implementation, the finalized designs were translated into functional solutions using Tableau dashboards integrated with React-based embeds. Special attention was given to performance optimization, particularly when handling large category sets and complex visualizations. This stage focused on ensuring that the platform remained responsive, scalable, and user-friendly.
 
-> **Brand Compliance:** Followed the official **University of the Pacific Brand Guidelines** for typography, spacing, color, and layout rhythm.  
-> 📄 Guidelines PDF: https://www.pacific.edu/sites/default/files/users/user245/UPac_BrandGuidelines_Final_compressed.pdf
+4. **Validation & Delivery** – The final stage involved validation and delivery. Usability checks were carried out with staff and students to confirm that the dashboards were intuitive and met practical needs. Based on this feedback, final refinements were made before the project was packaged and delivered, including a polished presentation deck prepared for deans and other academic stakeholders.
+
+> **Brand Compliance:** Followed the official **University of the Pacific Brand Guidelines** for typography, spacing, color, and layout rhythm.
+> 📄 Guidelines: https://www.pacific.edu/sites/default/files/users/user245/UPac_BrandGuidelines_Final_compressed.pdf
 
 ---
 
@@ -128,12 +131,12 @@ Prior to this work, the Study Abroad office lacked:
 
 ---
 
-## Run / View
+## Installation Setup
 - Dashboards are deployed internally via **Tableau** and embedded in a React app.
   ```bash
   npm install
   npm run dev # or npm start
- 
+
 ## Interactive Dashboards (Published)
 
 You can explore the dashboards live on **Tableau Public** here:
