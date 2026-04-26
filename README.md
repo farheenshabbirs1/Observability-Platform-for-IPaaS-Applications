@@ -10,7 +10,7 @@ Data storytelling dashboards for the **University of the Pacific – Office of G
 - [Design Process](#design-process)
 - [Features](#features)
 - [Impact](#impact)
-- [Screenshots](#screenshots)
+- [User Interface](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Run / View](#run--view)
 - [Brand & Accessibility](#brand--accessibility)
@@ -40,7 +40,7 @@ Prior to this work, the Study Abroad office lacked:
 
 ---
 
-## Users & Customer Needs
+## Customer Requirements
 **Primary users:** Study Abroad coordinators, deans, advisors.  
 **Key needs:** quick trend scanning, trustworthy metrics, exportable visuals, and accessible presentation view for decision meetings.
 
@@ -86,32 +86,38 @@ Prior to this work, the Study Abroad office lacked:
 
 ---
 
-## Screenshots
-<img width="866" height="463" alt="Screenshot 2025-09-17 at 12 10 47 AM" src="https://github.com/user-attachments/assets/60e05efb-f4e6-45fd-807a-be2b67b6d7c1" />
-<img width="892" height="280" alt="Screenshot 2025-09-17 at 12 11 03 AM" src="https://github.com/user-attachments/assets/f3459a93-db2f-4942-8216-14e5248b42b4" />
-<img width="936" height="408" alt="Screenshot 2025-09-17 at 12 11 21 AM" src="https://github.com/user-attachments/assets/b31c2453-171e-48b5-923b-4f861a2b938b" />
+## Dashboards
+<img width="600" height="400" alt="Screenshot 2025-09-17 at 12 10 47 AM" src="https://github.com/user-attachments/assets/60e05efb-f4e6-45fd-807a-be2b67b6d7c1" />
+<br>
 
-<img width="939" height="487" alt="Screenshot 2025-09-17 at 12 11 30 AM" src="https://github.com/user-attachments/assets/134ddd5e-a595-47e2-9f24-6e1435fa6fbf" />
-<img width="959" height="469" alt="Screenshot 2025-09-17 at 12 11 46 AM" src="https://github.com/user-attachments/assets/dce02eb8-3aca-456f-b6d1-2938447775ea" />
+<img width="600" height="400" alt="Screenshot 2025-09-17 at 12 11 03 AM" src="https://github.com/user-attachments/assets/f3459a93-db2f-4942-8216-14e5248b42b4" />
+<br>
 
-<img width="887" height="342" alt="Screenshot 2025-09-17 at 12 11 56 AM" src="https://github.com/user-attachments/assets/9576a42c-3590-4249-a5c4-238275ffdfbb" />
-<img width="940" height="421" alt="Screenshot 2025-09-17 at 12 12 03 AM" src="https://github.com/user-attachments/assets/1eb3a619-c513-4e8e-9951-571bbf13161c" />
+<img width="600" height="400" alt="Screenshot 2025-09-17 at 12 11 21 AM" src="https://github.com/user-attachments/assets/b31c2453-171e-48b5-923b-4f861a2b938b" />
+<br>
 
-<img width="804" height="435" alt="Screenshot 2025-09-17 at 12 12 09 AM" src="https://github.com/user-attachments/assets/eb5cd2ee-f0b7-4983-b8df-816ca8709412" />
+<img width="600" height="400" alt="Screenshot 2025-09-17 at 12 11 30 AM" src="https://github.com/user-attachments/assets/134ddd5e-a595-47e2-9f24-6e1435fa6fbf" />
+<br>
 
-<img width="947" height="322" alt="Screenshot 2025-09-17 at 12 12 17 AM" src="https://github.com/user-attachments/assets/c6e3bf3b-91ee-46b2-839b-2434879e5bf8" />
+<img width="600" height="400" alt="Screenshot 2025-09-17 at 12 11 46 AM" src="https://github.com/user-attachments/assets/dce02eb8-3aca-456f-b6d1-2938447775ea" />
+<br>
 
-<img width="915" height="298" alt="Screenshot 2025-09-17 at 12 12 23 AM" src="https://github.com/user-attachments/assets/331a65d3-df98-4b93-8b01-3db4f63e297a" />
+<img width="600" height="400" alt="Screenshot 2025-09-17 at 12 11 56 AM" src="https://github.com/user-attachments/assets/9576a42c-3590-4249-a5c4-238275ffdfbb" />
+<br>
+
+<img width="600" height="400" alt="Screenshot 2025-09-17 at 12 12 03 AM" src="https://github.com/user-attachments/assets/1eb3a619-c513-4e8e-9951-571bbf13161c" />
+<br>
+
+<img width="600" height="400" alt="Screenshot 2025-09-17 at 12 12 09 AM" src="https://github.com/user-attachments/assets/eb5cd2ee-f0b7-4983-b8df-816ca8709412" />
+<br>
+
+<img width="600" height="400" alt="Screenshot 2025-09-17 at 12 12 17 AM" src="https://github.com/user-attachments/assets/c6e3bf3b-91ee-46b2-839b-2434879e5bf8" />
+<br>
+
+<img width="600" height="400" alt="Screenshot 2025-09-17 at 12 12 23 AM" src="https://github.com/user-attachments/assets/331a65d3-df98-4b93-8b01-3db4f63e297a" />
+<br>
 
 
-<!--
-![Fall & Spring Participation](./images/fall-spring.png)
-![Summer & Faculty-Led](./images/summer-faculty.png)
-![Gender Distribution](./images/gender.png)
-![Ethnic Diversity](./images/ethnicity.png)
-![Top Countries](./images/top-countries.png)
-![Majors & Schools](./images/majors-schools.png)
--->
 ---
 
 ## Tech Stack
