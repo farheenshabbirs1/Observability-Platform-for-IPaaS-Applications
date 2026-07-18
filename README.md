@@ -1,4 +1,4 @@
-## Observability & Performace Monitoring Platform For Study Abroad Program, Visualization peromance rate of 300+ global institutes.
+## Observability & Performace Monitoring Platform For Study Abroad Program, visualizing peromance for 300+ global institutes.
 
 
 
