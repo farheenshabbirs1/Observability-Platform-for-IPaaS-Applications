@@ -1,7 +1,6 @@
-## Observability & Performace Monitoring Platform For Study Abroad Program, Monitorng Across 300+ institutes and 20+ Cities
+## Observability & Performace Monitoring Platform For Study Abroad Program, Visualization peromance rate of 300+ global institutes.
 
 
-Data storytelling dashboards for the **University of the Pacific – Office of Global Education** (Summer 2025). Visualizes Study Abroad participation across **Fall, Spring, Summer, and Faculty-Led Trips (2014–2025)** to inform decisions on **diversity, inclusion, and engagement**.
 
 ---
 
