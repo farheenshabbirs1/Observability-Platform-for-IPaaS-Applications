@@ -1,4 +1,4 @@
-## Dashboards to Analyse Study Abroad Student Engagement Across 12+ Schools and 3+ Campuses
+## Observability & Performace Monitoring Platform For Study Abroad Program, Monitorng Across 300+ institutes and 20+ Cities
 
 
 Data storytelling dashboards for the **University of the Pacific – Office of Global Education** (Summer 2025). Visualizes Study Abroad participation across **Fall, Spring, Summer, and Faculty-Led Trips (2014–2025)** to inform decisions on **diversity, inclusion, and engagement**.
