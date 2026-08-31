@@ -1,4 +1,4 @@
-# 📊 Observability & Performance Monitoring Platform for Strategic Office of Admissions Management
+# 📊 Observability & Performance Monitoring Platform for Strategic Office of Admissions Application Log Management
 
 <img width="800" alt="Study Abroad Dashboard" src="https://github.com/user-attachments/assets/c08e6a0b-ac27-477e-b881-6de332ade513" />
 
